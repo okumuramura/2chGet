@@ -1,0 +1,4 @@
+colorama
+termcolor>=1.1.0
+beautifulsoup4>=4.8.2
+requests>=2.23.0
